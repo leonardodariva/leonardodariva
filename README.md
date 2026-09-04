@@ -5,8 +5,7 @@
 <h1 align="center">Leonardo Dariva</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Front-end & UI/UX Designer</strong><br>
-  Transformando ideias e necessidades em experiências digitais claras, intuitivas e funcionais.
+  <strong>Desenvolvedor Front-end & UI/UX Designer</strong>
 </p>
 
 <p align="center">
