@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/leonardodariva/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/leonardodariva/">💼 LinkedIn</a>
   &nbsp;•&nbsp;
-  <a href="https://leonardodariva.netlify.app/">Portfólio</a>
+  <a href="https://leonardodariva.netlify.app/">🌐 Portfólio</a>
   &nbsp;•&nbsp;
-  <a href="mailto:leodarivask@gmail.com">E-mail</a>
+  <a href="mailto:leodarivask@gmail.com">✉️ E-mail</a>
 </p>
 
 ---
