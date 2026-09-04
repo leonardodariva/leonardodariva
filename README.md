@@ -47,6 +47,11 @@ Minha trajetória profissional combina **tecnologia, design e comunicação**, c
 
 🚀 Atualmente, continuo aprimorando meus conhecimentos em **desenvolvimento Front-end, React, UI/UX e Product Design**.
 
-## Entre em contato
-
-📫 Vamos conversar? Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/leonardodariva/), conhecer meus projetos no [portfólio](https://leonardodariva.netlify.app/) ou escrever para [leodarivask@gmail.com](mailto:leodarivask@gmail.com).
+<h2>
+  📫 Entre em contato:
+  <a href="https://www.linkedin.com/in/leonardodariva/"><img src="https://img.shields.io/badge/Leonardo_Dariva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  |
+  <a href="mailto:leodarivask@gmail.com"><img src="https://img.shields.io/badge/leodarivask%40gmail.com-C94A42?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  |
+  <a href="https://leonardodariva.netlify.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-06B6D4?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfólio"></a>
+</h2>
